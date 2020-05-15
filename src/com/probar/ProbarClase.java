@@ -11,5 +11,6 @@ public class ProbarClase {
 	        Scanner input = new Scanner(myFile);
 	        String in = "";
 	        in = input.nextLine();
+	        System.out.println("Saludo");
 	    }
 }
